@@ -1,0 +1,15 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  select {
+    margin: 20px;
+    padding: 10px;
+  }
+  
+  canvas {
+    max-width: 100%;
+    height: auto;
+  }
+  
